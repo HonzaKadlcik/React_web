@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Potfolio Jan Kadlčík
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dokumentace k mému projektu Portfolio v Reactu. Na úvod. Web je laděn do modra jelikož mám tuto barvu rád. Nachází se zde sekce které považuji za nejdůležitější.
 
-## Available Scripts
+## HomePage
+Web nezačíná ničím jiným než HomePage. Jsou zde 3 ikony symbolizující to co nabízím a stručný popis toho kdo jsem a co dělám.
+Nechybí ani tlačítko na Kontakt
 
-In the project directory, you can run:
 
-### `npm start`
+## Mé služby/skills
+Tato část přímo obsahuje to co umím a co mohu nabídnout. Jsou zde 4 služby a pro nějaký ten design má každá svoji odpovídající ikonu včeetně jejího popisu.
+Do budoucna bych možná přidal víc těch aniamcí ale prozatím mi tohle vyhovuje.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## O mně
+V této sekci se nachází podrobnější popis toho kdo jsem a nějaké to okénko do měho života. Nechybí ani fotka oskenovaná z občanky.
+Tady bych možná přidal ještě nějaké to tlačítko kde by byl celý popis o mně.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Moje Portfolio
+Tato část je hodně důležitá. Jsou zde 3 nejnovější projekty na kterých pracuji. Všechny mají nějakou tu fotku na úvod, popis a tlačítko odkazující na GitHub. Ty ale nejsou funkční jelikož se ani jeden z těchto projektů na Gitu nenachází.
+Nakonec je zde velké modré tlačítko které uživatele přesune přímo na můj GitHub.
 
-### `npm test`
+## Hodnocení
+Tato sekce je věnována hodnocení ze strany klientů se kterými jsem pracoval. Každý má svou kartu kde je fotka, jméno a jméno firmy nebo přezdívka jednotlivce, počet hvězd a krátké hodnocení.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Kontakt
+Závěrečná sekce je věnována kontaktnímu formuláři.
 
-### `npm run build`
+## Navbar/Footer
+### Navbar
+Navbar obsahuje mé logo a samozřejmě tlačítka která přesunují na jedotlivé sekce. Tlačítko kontakt je nejvýraznější aby na něj uživatel klikl.
+### Footer
+Footer obsahuje taktéž logo opět jednotlivá tlačítka a nakonec odkazy na sociální sítě. Funguje pouze Instagram a X. Do FB a in jsem se nemohl dostat.
+## Zhodnocení
+Celkově jsem z webem spokojen. Samozřejmě vše jde zlepšovat a určitě by se našly věci co by chtěly předělat.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Grafický návrh
+### Web
+![Web](https://github.com/HonzaKadlcik/React_web/assets/124683119/c5dea2f6-8c0f-4ddf-858b-d8c6cdc9da28)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
