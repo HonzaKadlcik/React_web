@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/network.png",
+      "title": "Síťový technik",
+      "description": "Zajistím vám kompletní správu vaší sítě"
+    },
+    {
+      "id": "2",
+      "src": "./img/skull.png",
+      "title": "Kybernetická bezpečnost",
+      "description": "Zajistím vám kompletní ochranu vaší sítě, včetně jejich zařízení a poskytnu pomoc v případě kybernetického útoku."
+    },
+    {
+      "id": "3",
+      "src": "./img/server.png",
+      "title": "Správa serverů",
+      "description": "Zajistím vám kompletní správu serverů běžících jak na Windows Server tak Linux, včetně pomoci z clusteringem "
+    },
+    {
+      "id": "4",
+      "src": "./img/code.png",
+      "title": "Web",
+      "description": "Naprogramuji vám váš vysněný web v HTML/CSS"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/web.png",
+      "title": "Revamp mého webu",
+      "description": "Předělal jsem svůj Web, starý už byl moc starý",
+      "link": "Odkaz na Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/react.png",
+      "title": "Projekt v Reactu",
+      "description": "Udělal jsem web v Reactu. Práve na něm jsi",
+      "link": "Odkaz na Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/ue.png",
+      "title": "Projekt Unreal",
+      "description": "Projekt v Unreal Enginu který má do dokončení stále daleko",
+      "link": "Odkaz na Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/gus.png",
+      "description": "Cápek mi udělal topový webos pro můj byznys. Pět hvězd dávám",
+      "author_name": "Gustavo Fring",
+      "author_designation": "Los Pollos Hermanos"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/laden.png",
+      "description": "Typek zajistil, že se mi do kompu nedostanou federálové",
+      "author_name": "Osama Bin Laden",
+      "author_designation": "Al Qaeda"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/halien.png",
+      "description": "Opravil mi komp abych mohl hrát Fortnite v Jailu",
+      "author_name": "Ján Štec",
+      "author_designation": "Halien"
+    }
+  ]
+}
