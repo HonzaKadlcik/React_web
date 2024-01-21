@@ -1,6 +1,7 @@
 # Potfolio Jan Kadlčík
 
 Dokumentace k mému projektu Portfolio v Reactu. Na úvod. Web je laděn do modra jelikož mám tuto barvu rád. Nachází se zde sekce které považuji za nejdůležitější.
+Odkaz: https://react-web-final.vercel.app/
 
 ## HomePage
 Web nezačíná ničím jiným než HomePage. Jsou zde 3 ikony symbolizující to co nabízím a stručný popis toho kdo jsem a co dělám.
